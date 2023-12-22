@@ -16,4 +16,4 @@
 ### In the process of studying...
 
 <img align="left" alt="Java" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" />
-<img align="left" alt="Java" width="40px" src="https://cdn.icon-icons.com/icons2/3398/PNG/128/plus_logo_c_icon_214621.png" />
+<img align="left" alt="C++" width="40px" src="https://www.digiseller.ru/preview/307467/p1_1986716_c7d6ef4a.png" />
