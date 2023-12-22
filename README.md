@@ -9,10 +9,10 @@
 
 ### That's all I know:
 
-<img align="left" alt="Python" width="50px" src="https://maxford.ru/upload/000/u1/5/d/python-logo-small.png" />
+<img align="left" alt="Python" width="40px" src="https://maxford.ru/upload/000/u1/5/d/python-logo-small.png" />
 
 <br />
 
 ### In the process of studying...
 
-<img align="left" alt="Java" width="50px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" />
+<img align="left" alt="Java" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" />
