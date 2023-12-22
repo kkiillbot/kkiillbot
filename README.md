@@ -4,7 +4,6 @@
 - 16 years old
 - Live in Russia
 - Like coding and games
-
 <br />
 
 ### That's all I know:
