@@ -1,7 +1,7 @@
 ### Hi all. I'm Stanislav!
 
 ## I am a beginner coder, I know only one programming language.
-- 16 years old
+- 15 years old
 - Live in Russia
 - Like coding and games
 
