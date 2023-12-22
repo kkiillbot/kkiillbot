@@ -10,3 +10,7 @@
 ### That's all I know:
 
 <img align="left" alt="Python" width="64px" src="https://maxford.ru/upload/000/u1/5/d/python-logo-small.png" />
+
+### In the process of studying...
+
+<img align="left" alt="Java" width="64px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" />
