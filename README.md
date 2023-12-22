@@ -4,6 +4,7 @@
 - 16 years old
 - Live in Russia
 - Like coding and games
+- 
 <br />
 
 ### That's all I know:
@@ -15,3 +16,4 @@
 ### In the process of studying...
 
 <img align="left" alt="Java" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" />
+<img align="left" alt="Java" width="40px" src="https://cdn.icon-icons.com/icons2/3398/PNG/128/plus_logo_c_icon_214621.png" />
